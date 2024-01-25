@@ -30,5 +30,13 @@ int main() {
         
     }
 
+
+	void Multiplicaton()
+	{
+
+		int a;
+		int b;
+	}
+
     return 0;
 }
