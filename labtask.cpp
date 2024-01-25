@@ -25,5 +25,10 @@ int main() {
         std::cout << "Invalid operation. Please use + for addition or - for subtraction." << std::endl;
     }
 
+    void Division()
+    {
+        
+    }
+
     return 0;
 }
